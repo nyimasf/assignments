@@ -8,3 +8,5 @@ This contains my assignments
 [Nyimas' assignment 5](https://github.com/nyimasf/assignments/blob/master/Assignment_week_5.ipynb)
 
 [Nyimas' assignment 6](https://github.com/nyimasf/assignments/blob/master/assignment4.ipynb)
+
+[Nyimas' assignment 7 Week 8](http://localhost:8888/notebooks/Downloads/Assignment%20Week%208/assignment5.ipynb)
