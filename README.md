@@ -12,3 +12,5 @@ This contains my assignments
 [Nyimas' assignment 7 Week 8](http://localhost:8888/notebooks/Downloads/Assignment%20Week%208/assignment5.ipynb)
 
 [Nyimas' Final Assignment](https://github.com/nyimasf/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[Nyimas' OECD R Exam](https://github.com/nyimasf/assignments/blob/master/OECD_R_exam%20Nyimas.ipynb)
