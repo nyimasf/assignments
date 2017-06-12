@@ -13,4 +13,4 @@ This contains my assignments
 
 [Nyimas' Final Assignment](https://github.com/nyimasf/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
-[Nyimas' OECD R Exam](https://github.com/nyimasf/assignments/blob/master/OECD_R_exam%20Nyimas.ipynb)
+[Nyimas' OECD R Exam](https://github.com/nyimasf/assignments/blob/master/OECD_R_exam.ipynb)
